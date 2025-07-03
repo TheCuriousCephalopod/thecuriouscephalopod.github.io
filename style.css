@@ -1,19 +1,19 @@
 body {
   margin: 0;
   font-family: 'Segoe UI', 'Arial', sans-serif;
-  background: #fff9f4;
+  background: #016d3d;
   color: #2b2523;
 }
 
 header {
-  background: #f0e7df;
+  background: #0097b2;
   padding: 1.2em 0.5em;
-  border-bottom: 2px solid #e3dac9;
+  border-bottom: 2px solid #2898d0;
 }
 
 header h1 {
   margin: 0 0 0.4em 0;
-  color: #ad5a3f;
+  color: #7ed957;
   font-size: 2em;
   text-align: center;
 }
@@ -29,7 +29,7 @@ nav ul {
 
 nav a {
   text-decoration: none;
-  color: #ad5a3f;
+  color: #7ed957;
   font-weight: 500;
   font-size: 1.1em;
 }
@@ -42,7 +42,7 @@ main {
   max-width: 900px;
   margin: 2em auto;
   padding: 1.5em;
-  background: #fffdfa;
+  background: #7ed957;
   border-radius: 12px;
   box-shadow: 0 2px 8px #e3dac9;
 }
@@ -54,7 +54,7 @@ main {
 
 .hero h2 {
   font-size: 2em;
-  color: #ad5a3f;
+  color: #0097b2;
   margin-bottom: 0.2em;
 }
 
@@ -65,7 +65,7 @@ main {
 
 .cta-btn {
   display: inline-block;
-  background: #ad5a3f;
+  background: #016d3d;
   color: #fffdfa;
   padding: 0.7em 1.7em;
   border-radius: 7px;
@@ -102,20 +102,20 @@ section {
 }
 
 blockquote {
-  background: #f8eee7;
-  border-left: 4px solid #ad5a3f;
+  background: #0097b2;
+  border-left: 4px solid #016d3d;
   margin: 1.2em 0;
   padding: 1em 1.5em;
   border-radius: 7px;
   font-style: italic;
-  color: #6a3d27;
+  color: #7ed957;
 }
 
 blockquote span {
   display: block;
   margin-top: 0.5em;
   font-size: 1em;
-  color: #ad5a3f;
+  color: #7ed957;
 }
 
 form {
@@ -127,7 +127,7 @@ form {
 }
 
 form label {
-  color: #ad5a3f;
+  color: #016d3d;
   font-weight: 500;
 }
 
@@ -144,7 +144,7 @@ form textarea {
 }
 
 form button[type="submit"] {
-  background: #ad5a3f;
+  background: #016d3d;
   color: #fffdfa;
   border: none;
   padding: 0.7em 1.5em;
@@ -163,9 +163,9 @@ form button[type="submit"]:hover {
 footer {
   text-align: center;
   padding: 1.5em 0;
-  background: #f0e7df;
+  background: #0097b2;
   border-top: 2px solid #e3dac9;
-  color: #7a3e28;
+  color: #7ed957;
   font-size: 0.95em;
   margin-top: 2em;
 }
